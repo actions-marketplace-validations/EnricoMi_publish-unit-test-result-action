@@ -10,7 +10,7 @@ PyGithub==2.9.1
       pycparser==3.0
   requests==2.34.2
     certifi==2026.5.20
-    charset-normalizer==3.4.7
+    charset-normalizer==3.5.0
     idna==3.17
     urllib3==2.7.0
   typing_extensions==4.15.0
